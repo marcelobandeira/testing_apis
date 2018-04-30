@@ -2,6 +2,8 @@
 
 ### This script shows how to use python to consume some APIs
 
-##APIs Used:
-###Google Maps
-###Serenata de Amor
+## APIs Used:
+### Google Maps API;
+### Jarbas API - Serenata de Amor;
+### Tabela FIPE API;
+### Fixer.io API;
