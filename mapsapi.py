@@ -3,7 +3,7 @@ import json
 
 #googlemaps API
 def geoLocation(inputStr):
-	key = "AIzaSyDIMfJqw8gfEHg-j6FQTZHY1tdMUGxlTJU"
+	key = "YOUR_KEY"
 	location = inputStr.replace(" ", "+")
 	url = ("https://maps.googleapis.com/maps/api/geocode/json?address=%s&key=%s" % (location, key))
 
